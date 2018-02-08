@@ -1,0 +1,2 @@
+This file is to be mergered with feature branch and no builds should be run for this on CircleCI.
+As in config.yml file this scenario is ignored.
