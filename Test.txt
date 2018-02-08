@@ -1,1 +1,1 @@
-This is test file for CircleCI v3.0.
+This is test file for CircleCI v4.0.
